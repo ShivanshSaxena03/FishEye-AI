@@ -37,6 +37,8 @@ torch
 opencv-python
 
 Internet connection (for initial YOLOv5 model download)
+
+
 HOW TO RUN:
 pip install torch opencv-python
 python fishy_detector.py
